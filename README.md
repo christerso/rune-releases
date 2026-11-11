@@ -10,7 +10,7 @@ Rune runs commands without a shell, checks a whole script before its first line 
 - macOS: the signed and notarised installer for Apple silicon, from https://antisoftworks.com/rune
 - Linux: the .deb and Arch packages, and a tarball for servers, from https://antisoftworks.com/rune
 
-Current release: 1.0.0. Rune also comes with AntiTerm, the Antisoftworks terminal.
+Current release: 1.0.1. Rune also comes with AntiTerm, the Antisoftworks terminal.
 
 ## Licence
 
